@@ -8,7 +8,7 @@ class App extends Component {
                 name: 'Parcul Central Simion Barnutiu',
                 address: 'Parcul Central, Cluj-Napoca',
                 coordinates: 'Stația Parcul Central',
-                category: 'Activitati sportive'
+                category: 'Activitati sportive si fizice'
               },
 
               {
